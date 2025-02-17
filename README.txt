@@ -1,0 +1,1 @@
+Questa è un'anteprima della Fantacalcio App.

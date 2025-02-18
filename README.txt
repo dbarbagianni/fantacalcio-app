@@ -1,1 +1,1 @@
-Questa è un'anteprima della Fantacalcio App.
+Questa è l'applicazione Fantacalcio con frontend React e backend Express.

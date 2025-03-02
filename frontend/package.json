@@ -12,5 +12,8 @@
     "dev": "vite",
     "build": "vite build",
     "start": "vite preview"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4"
   }
 }
